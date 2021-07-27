@@ -12,6 +12,7 @@ World.add(world,this.body)
 }
 display()
 {
+    fill ("red")
 push ()
 translate (this.body.position.x,this.body.position.y)
 rectMode(CENTER)
